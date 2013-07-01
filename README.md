@@ -1,4 +1,4 @@
-Burberry-style-tartan-plaid
+Burberry-plaid
 ===========================
 
 The Burberry tartan plaid recreated with CSS3 gradients.
